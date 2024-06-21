@@ -3,7 +3,7 @@
 import 'package:uuid/uuid.dart';
 
 const String locationAPIBaseUrl = "https://maps.googleapis.com";
-const String MAPS_API_KEY = "xxxxxxxxxxxx";
+const String MAPS_API_KEY = "AIzaSyDFhe1h8xNeg5ZDV5iwhBjFNwagSb4kh3w";
 const String GOOGLE_MAPS_FIELD_ADDRESS = 'formatted_address';
 const String GOOGLE_STATIC_MAPS_URI = 'https://maps.googleapis.com/maps/api/staticmap?center=lat,lng&zoom=16&size=600x300&maptype=roadmap&markers=color:red%7Clabel:A%7Clat,lng&key=$MAPS_API_KEY';
 const double GOOGLE_LATTTUDE = 37.422;
